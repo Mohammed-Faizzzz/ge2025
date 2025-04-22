@@ -3,121 +3,169 @@
     {
       "name": "Harpreet Singh Nehal",
       "age": 59,
+      "party": "Workers' Party",
+      "branch": "Unknown",
       "occupation": "Senior Counsel; Managing Partner at Audent Chambers"
     },
     {
       "name": "Paris V. Parameswari",
       "age": 33,
+      "party": "Workers' Party",
+      "branch": "Unknown",
       "occupation": "Former Diplomat; Insights & Innovation Lead at Asia Philanthropy Circle"
     },
     {
       "name": "Michael Thng Quan Wei",
       "age": 37,
+      "party": "Workers' Party",
+      "branch": "Unknown",
       "occupation": "Editor-in-Chief of the Singapore Policy Journal; Harvard Kennedy School Graduate"
     },
     {
       "name": "Ong Lue Ping",
       "age": 48,
+      "party": "Workers' Party",
+      "branch": "Unknown",
       "occupation": "Senior Principal Clinical Psychologist at the Institute of Mental Health"
     },
     {
       "name": "Jimmy Tan Khim Teck",
       "age": 53,
+      "party": "Workers' Party",
+      "branch": "Unknown",
       "occupation": "Auditor; Associate Fellow at the Singapore Institute of Aerospace Engineers"
     },
     {
       "name": "Siti Alia Abdul Rahim Mattar",
       "age": 35,
+      "party": "Workers' Party",
+      "branch": "Unknown",
       "occupation": "Communications Executive at London Stock Exchange Group"
     },
     {
       "name": "Jackson Au Chee Meng",
       "age": 47,
+      "party": "Workers' Party",
+      "branch": "Unknown",
       "occupation": "Product Lead at Visa Worldwide"
     },
     {
       "name": "Alexis Dang",
       "age": 33,
+      "party": "Workers' Party",
+      "branch": "Unknown",
       "occupation": "Former Associate Law Director"
     },
     {
       "name": "Andre Low",
       "age": 39,
+      "party": "Workers' Party",
+      "branch": "Unknown",
       "occupation": "Director of Publisher Business Development at Teads"
     },
     {
       "name": "Sufyan Mikhail Putra Kamil",
       "age": 33,
+      "party": "Workers' Party",
+      "branch": "Unknown",
       "occupation": "Former Associate at Yeo Marini Law Corporation"
     },
     {
       "name": "Jasper Kuan Hon Whye",
       "age": 34,
+      "party": "Workers' Party",
+      "branch": "Unknown",
       "occupation": "Strategy Consultant at Boston Consulting Group"
     },
     {
       "name": "Eileen Chong",
       "age": 25,
+      "party": "Workers' Party",
+      "branch": "Unknown",
       "occupation": "Assistant Hardware Engineer"
     },
     {
       "name": "Kenneth Tiong",
       "age": 36,
+      "party": "Workers' Party",
+      "branch": "Unknown",
       "occupation": "Tech Director at Sensemake.ai"
     },
     {
       "name": "Abdul Muhaimin Abdul Malik",
       "age": 36,
+      "party": "Workers' Party",
+      "branch": "Unknown",
       "occupation": "Senior Property Manager at Aljunied-Hougang Town Council"
     },
     {
       "name": "Pritam Singh",
       "age": 47,
+      "party": "Workers' Party",
+      "branch": "(ALJUNIED GRC)",
       "occupation": "Secretary-General of WP; MP for Aljunied GRC"
     },
     {
       "name": "Sylvia Lim",
       "age": 59,
+      "party": "Workers' Party",
+      "branch": "(ALJUNIED GRC)",
       "occupation": "Chair of WP; MP for Aljunied GRC"
     },
     {
       "name": "He Ting Ru",
       "age": 41,
+      "party": "Workers' Party",
+      "branch": "(SENGKANG GRC)",
       "occupation": "Head of Legal and Communications; MP for Sengkang GRC"
     },
     {
       "name": "Jamus Lim",
       "age": 48,
+      "party": "Workers' Party",
+      "branch": "(SENGKANG GRC)",
       "occupation": "Associate Professor of Economics; MP for Sengkang GRC"
     },
     {
       "name": "Louis Chua",
       "age": 37,
+      "party": "Workers' Party",
+      "branch": "(SENGKANG GRC)",
       "occupation": "Equity Research Analyst; MP for Sengkang GRC"
     },
     {
       "name": "Gerald Giam",
       "age": 46,
+      "party": "Workers' Party",
+      "branch": "(ALJUNIED GRC)",
       "occupation": "IT Consultant; MP for Aljunied GRC"
     },
     {
       "name": "Leon Perera",
       "age": 53,
+      "party": "Workers' Party",
+      "branch": "(ALJUNIED GRC)",
       "occupation": "Entrepreneur; MP for Aljunied GRC"
     },
     {
       "name": "Faisal Manap",
       "age": 48,
+      "party": "Workers' Party",
+      "branch": "(ALJUNIED GRC)",
       "occupation": "Counsellor; MP for Aljunied GRC"
     },
     {
       "name": "Dennis Tan",
       "age": 52,
+      "party": "Workers' Party",
+      "branch": "(HOUGANG SMC)",
       "occupation": "Maritime Lawyer; MP for Hougang SMC"
     },
     {
       "name": "Muhammad Azhar Abdul Latip",
       "age": 41,
+      "party": "Workers' Party",
+      "branch": "(ALJUNIED GRC)",
       "occupation": "Educator; MP for Aljunied GRC"
     }
   ]

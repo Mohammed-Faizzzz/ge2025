@@ -1,538 +1,627 @@
 {
-  "last_updated": "2025-04-22 17:13:31",
+  "last_updated": "2025-04-22 18:33:48",
   "candidates": [
     {
-      "full_name": "Dr Adrian Ang",
+      "name": "Dr Adrian Ang",
+      "age": 69,
       "party": "People's Action Party",
-      "branch": "BEDOK RESERVOIR-PUNGGOL (ALJUNIED GRC)",
+      "branch": "ALJUNIED GRC (BEDOK RESERVOIR-PUNGGOL)",
       "url": "https://www.pap.org.sg/your-representatives/adrian-ang/"
     },
     {
-      "full_name": "Mr Alex Yam Ziming",
+      "name": "Mr Alex Yam Ziming",
+      "age": 57,
       "party": "People's Action Party",
-      "branch": "YEW TEE (MARSILING - YEW TEE GRC)",
+      "branch": "MARSILING - YEW TEE GRC (YEW TEE)",
       "url": "https://www.pap.org.sg/your-representatives/alex-yam-ziming/"
     },
     {
-      "full_name": "Mr Alvin Tan Sheng Hui",
+      "name": "Mr Alvin Tan Sheng Hui",
+      "age": 51,
       "party": "People's Action Party",
-      "branch": "MOULMEIN-CAIRNHILL (TANJONG PAGAR GRC)",
+      "branch": "TANJONG PAGAR GRC (MOULMEIN-CAIRNHILL)",
       "url": "https://www.pap.org.sg/your-representatives/alvin-tan-sheng-hui/"
     },
     {
-      "full_name": "Dr Amy Khor Lean Suan",
+      "name": "Dr Amy Khor Lean Suan",
+      "age": 54,
       "party": "People's Action Party",
       "branch": "HONG KAH NORTH SMC",
       "url": "https://www.pap.org.sg/your-representatives/amy-khor-lean-suan/"
     },
     {
-      "full_name": "Mr Ang Wei Neng",
+      "name": "Mr Ang Wei Neng",
+      "age": 45,
       "party": "People's Action Party",
-      "branch": "NANYANG (WEST COAST GRC)",
+      "branch": "WEST COAST GRC (NANYANG)",
       "url": "https://www.pap.org.sg/your-representatives/ang-wei-neng/"
     },
     {
-      "full_name": "Mr Baey Yam Keng",
+      "name": "Mr Baey Yam Keng",
+      "age": 54,
       "party": "People's Action Party",
-      "branch": "TAMPINES NORTH (TAMPINES GRC)",
+      "branch": "TAMPINES GRC (TAMPINES NORTH)",
       "url": "https://www.pap.org.sg/your-representatives/baey-yam-keng/"
     },
     {
-      "full_name": "Ms Bernadette Giam",
+      "name": "Ms Bernadette Giam",
+      "age": 56,
       "party": "People's Action Party",
       "branch": "SENGKANG GRC",
       "url": "https://www.pap.org.sg/your-representatives/bernadette-giam/"
     },
     {
-      "full_name": "Ms Carrie Tan Huimin",
+      "name": "Ms Carrie Tan Huimin",
+      "age": 45,
       "party": "People's Action Party",
-      "branch": "NEE SOON SOUTH (NEE SOON GRC)",
+      "branch": "NEE SOON GRC (NEE SOON SOUTH)",
       "url": "https://www.pap.org.sg/your-representatives/carrie-tan-huimin/"
     },
     {
-      "full_name": "Mr Chan Chun Sing",
+      "name": "Mr Chan Chun Sing",
+      "age": 54,
       "party": "People's Action Party",
-      "branch": "BUONA VISTA (TANJONG PAGAR GRC)",
+      "branch": "TANJONG PAGAR GRC (BUONA VISTA)",
       "url": "https://www.pap.org.sg/your-representatives/chan-chun-sing/"
     },
     {
-      "full_name": "Ms Chan Hui Yuh",
+      "name": "Ms Chan Hui Yuh",
+      "age": 54,
       "party": "People's Action Party",
-      "branch": "SERANGOON (ALJUNIED GRC)",
+      "branch": "ALJUNIED GRC (SERANGOON)",
       "url": "https://www.pap.org.sg/your-representatives/chan-hui-yuh/"
     },
     {
-      "full_name": "Mr Chee Hong Tat",
+      "name": "Mr Chee Hong Tat",
+      "age": 56,
       "party": "People's Action Party",
-      "branch": "TOA PAYOH WEST-THOMSON (BISHAN-TOA PAYOH GRC)",
+      "branch": "BISHAN-TOA PAYOH GRC (TOA PAYOH WEST-THOMSON)",
       "url": "https://www.pap.org.sg/your-representatives/chee-hong-tat/"
     },
     {
-      "full_name": "Ms Cheryl Chan",
+      "name": "Ms Cheryl Chan",
+      "age": 39,
       "party": "People's Action Party",
-      "branch": "FENGSHAN (EAST COAST GRC)",
+      "branch": "EAST COAST GRC (FENGSHAN)",
       "url": "https://www.pap.org.sg/your-representatives/cheryl-chan/"
     },
     {
-      "full_name": "Mr Chong Kee Hiong",
+      "name": "Mr Chong Kee Hiong",
+      "age": 51,
       "party": "People's Action Party",
-      "branch": "BISHAN EAST-SIN MING (BISHAN-TOA PAYOH GRC)",
+      "branch": "BISHAN-TOA PAYOH GRC (BISHAN EAST-SIN MING)",
       "url": "https://www.pap.org.sg/your-representatives/chong-kee-hiong/"
     },
     {
-      "full_name": "Mr Christopher de Souza",
+      "name": "Mr Christopher de Souza",
+      "age": 42,
       "party": "People's Action Party",
-      "branch": "ULU PANDAN (HOLLAND-BUKIT TIMAH GRC)",
+      "branch": "HOLLAND-BUKIT TIMAH GRC (ULU PANDAN)",
       "url": "https://www.pap.org.sg/your-representatives/christopher-de-souza/"
     },
     {
-      "full_name": "Mr Daniel Liu",
+      "name": "Mr Daniel Liu",
+      "age": 41,
       "party": "People's Action Party",
-      "branch": "PAYA LEBAR (ALJUNIED GRC)",
+      "branch": "ALJUNIED GRC (PAYA LEBAR)",
       "url": "https://www.pap.org.sg/your-representatives/daniel-liu/"
     },
     {
-      "full_name": "Mr Darryl David",
+      "name": "Mr Darryl David",
+      "age": 58,
       "party": "People's Action Party",
-      "branch": "ANG MO KIO-HOUGANG (ANG MO KIO GRC)",
+      "branch": "ANG MO KIO GRC (ANG MO KIO-HOUGANG)",
       "url": "https://www.pap.org.sg/your-representatives/darryl-david/"
     },
     {
-      "full_name": "Ms Denise Phua Lay Peng",
+      "name": "Ms Denise Phua Lay Peng",
+      "age": 56,
       "party": "People's Action Party",
-      "branch": "KAMPONG GLAM (JALAN BESAR GRC)",
+      "branch": "JALAN BESAR GRC (KAMPONG GLAM)",
       "url": "https://www.pap.org.sg/your-representatives/denise-phua-lay-peng/"
     },
     {
-      "full_name": "Mr Derrick Goh Soon Hee",
+      "name": "Mr Derrick Goh Soon Hee",
+      "age": 58,
       "party": "People's Action Party",
-      "branch": "NEE SOON LINK (NEE SOON GRC)",
+      "branch": "NEE SOON GRC (NEE SOON LINK)",
       "url": "https://www.pap.org.sg/your-representatives/derrick-goh-soon-hee/"
     },
     {
-      "full_name": "Mr Desmond Choo Pey Ching",
+      "name": "Mr Desmond Choo Pey Ching",
+      "age": 50,
       "party": "People's Action Party",
-      "branch": "TAMPINES CHANGKAT (TAMPINES GRC)",
+      "branch": "TAMPINES GRC (TAMPINES CHANGKAT)",
       "url": "https://www.pap.org.sg/your-representatives/desmond-choo-pey-ching/"
     },
     {
-      "full_name": "Mr Desmond Lee",
+      "name": "Mr Desmond Lee",
+      "age": 40,
       "party": "People's Action Party",
-      "branch": "BOON LAY (WEST COAST GRC)",
+      "branch": "WEST COAST GRC (BOON LAY)",
       "url": "https://www.pap.org.sg/your-representatives/desmond-lee/"
     },
     {
-      "full_name": "Mr Desmond Tan Kok Ming",
+      "name": "Mr Desmond Tan Kok Ming",
+      "age": 62,
       "party": "People's Action Party",
-      "branch": "PASIR RIS CENTRAL (PASIR RIS - PUNGGOL GRC)",
+      "branch": "PASIR RIS - PUNGGOL GRC (PASIR RIS CENTRAL)",
       "url": "https://www.pap.org.sg/your-representatives/desmond-tan-kok-ming/"
     },
     {
-      "full_name": "Mr Don Wee Boon Hong",
+      "name": "Mr Don Wee Boon Hong",
+      "age": 46,
       "party": "People's Action Party",
-      "branch": "BRICKLAND (CHUA CHU KANG GRC)",
+      "branch": "CHUA CHU KANG GRC (BRICKLAND)",
       "url": "https://www.pap.org.sg/your-representatives/don-wee-boon-hong/"
     },
     {
-      "full_name": "Mr Edward Chia Bing Hui",
+      "name": "Mr Edward Chia Bing Hui",
+      "age": 53,
       "party": "People's Action Party",
-      "branch": "ZHENGHUA (HOLLAND-BUKIT TIMAH GRC)",
+      "branch": "HOLLAND-BUKIT TIMAH GRC (ZHENGHUA)",
       "url": "https://www.pap.org.sg/your-representatives/edward-chia-bing-hui/"
     },
     {
-      "full_name": "Mr Edwin Tong Chun Fai",
+      "name": "Mr Edwin Tong Chun Fai",
+      "age": 57,
       "party": "People's Action Party",
-      "branch": "JOO CHIAT (MARINE PARADE GRC)",
+      "branch": "MARINE PARADE GRC (JOO CHIAT)",
       "url": "https://www.pap.org.sg/your-representatives/edwin-tong-chun-fai/"
     },
     {
-      "full_name": "Assoc Prof Elmie Nekmat",
+      "name": "Assoc Prof Elmie Nekmat",
+      "age": 53,
       "party": "People's Action Party",
       "branch": "SENGKANG GRC",
       "url": "https://www.pap.org.sg/your-representatives/elmie-nekmat/"
     },
     {
-      "full_name": "Mr Eric Chua Swee Leong",
+      "name": "Mr Eric Chua Swee Leong",
+      "age": 63,
       "party": "People's Action Party",
-      "branch": "QUEENSTOWN (TANJONG PAGAR GRC)",
+      "branch": "TANJONG PAGAR GRC (QUEENSTOWN)",
       "url": "https://www.pap.org.sg/your-representatives/eric-chua-swee-leong/"
     },
     {
-      "full_name": "Dr Faisal Abdul Aziz",
+      "name": "Dr Faisal Abdul Aziz",
+      "age": 50,
       "party": "People's Action Party",
-      "branch": "KAKI BUKIT (ALJUNIED GRC)",
+      "branch": "ALJUNIED GRC (KAKI BUKIT)",
       "url": "https://www.pap.org.sg/your-representatives/faisal-abdul-aziz/"
     },
     {
-      "full_name": "Ms Foo Mee Har",
+      "name": "Ms Foo Mee Har",
+      "age": 39,
       "party": "People's Action Party",
-      "branch": "AYER RAJAH-GEK POH (WEST COAST GRC)",
+      "branch": "WEST COAST GRC (AYER RAJAH-GEK POH)",
       "url": "https://www.pap.org.sg/your-representatives/foo-mee-har/"
     },
     {
-      "full_name": "Mr Gan Kim Yong",
+      "name": "Mr Gan Kim Yong",
+      "age": 42,
       "party": "People's Action Party",
-      "branch": "CHUA CHU KANG (CHUA CHU KANG GRC)",
+      "branch": "CHUA CHU KANG GRC (CHUA CHU KANG)",
       "url": "https://www.pap.org.sg/your-representatives/gan-kim-yong/"
     },
     {
-      "full_name": "Ms Gan Siow Huang",
+      "name": "Ms Gan Siow Huang",
+      "age": 45,
       "party": "People's Action Party",
       "branch": "MARYMOUNT SMC",
       "url": "https://www.pap.org.sg/your-representatives/gan-siow-huang/"
     },
     {
-      "full_name": "Mr Gan Thiam Poh",
+      "name": "Mr Gan Thiam Poh",
+      "age": 45,
       "party": "People's Action Party",
-      "branch": "FERNVALE (ANG MO KIO GRC)",
+      "branch": "ANG MO KIO GRC (FERNVALE)",
       "url": "https://www.pap.org.sg/your-representatives/gan-thiam-poh/"
     },
     {
-      "full_name": "Ms Grace Fu Hai Yien",
+      "name": "Ms Grace Fu Hai Yien",
+      "age": 51,
       "party": "People's Action Party",
       "branch": "YUHUA SMC",
       "url": "https://www.pap.org.sg/your-representatives/grace-fu-hai-yien/"
     },
     {
-      "full_name": "Ms Hany Soh Hui Bin",
+      "name": "Ms Hany Soh Hui Bin",
+      "age": 37,
       "party": "People's Action Party",
-      "branch": "WOODGROVE (MARSILING - YEW TEE GRC)",
+      "branch": "MARSILING - YEW TEE GRC (WOODGROVE)",
       "url": "https://www.pap.org.sg/your-representatives/hany-soh-hui-bin/"
     },
     {
-      "full_name": "Mr Heng Chee How",
+      "name": "Mr Heng Chee How",
+      "age": 64,
       "party": "People's Action Party",
-      "branch": "WHAMPOA (JALAN BESAR GRC)",
+      "branch": "JALAN BESAR GRC (WHAMPOA)",
       "url": "https://www.pap.org.sg/your-representatives/heng-chee-how/"
     },
     {
-      "full_name": "Mr Heng Swee Keat",
+      "name": "Mr Heng Swee Keat",
+      "age": 60,
       "party": "People's Action Party",
-      "branch": "BEDOK (EAST COAST GRC)",
+      "branch": "EAST COAST GRC (BEDOK)",
       "url": "https://www.pap.org.sg/your-representatives/heng-swee-keat/"
     },
     {
-      "full_name": "Mr Henry Kwek Hian Chuan",
+      "name": "Mr Henry Kwek Hian Chuan",
+      "age": 60,
       "party": "People's Action Party",
       "branch": "KEBUN BARU SMC",
       "url": "https://www.pap.org.sg/your-representatives/henry-kwek-hian-chuan/"
     },
     {
-      "full_name": "Ms Indranee Thurai Rajah",
+      "name": "Ms Indranee Thurai Rajah",
+      "age": 46,
       "party": "People's Action Party",
-      "branch": "TANJONG PAGAR-TIONG BAHRU (TANJONG PAGAR GRC)",
+      "branch": "TANJONG PAGAR GRC (TANJONG PAGAR-TIONG BAHRU)",
       "url": "https://www.pap.org.sg/your-representatives/indranee-thurai-rajah/"
     },
     {
-      "full_name": "Mr Jagathishwaran Rajo",
+      "name": "Mr Jagathishwaran Rajo",
+      "age": 39,
       "party": "People's Action Party",
-      "branch": "EUNOS (ALJUNIED GRC)",
+      "branch": "ALJUNIED GRC (EUNOS)",
       "url": "https://www.pap.org.sg/your-representatives/jagathishwaran-rajo/"
     },
     {
-      "full_name": "Dr Janil Puthucheary",
+      "name": "Dr Janil Puthucheary",
+      "age": 64,
       "party": "People's Action Party",
-      "branch": "PUNGGOL COAST (PASIR RIS - PUNGGOL GRC)",
+      "branch": "PASIR RIS - PUNGGOL GRC (PUNGGOL COAST)",
       "url": "https://www.pap.org.sg/your-representatives/janil-puthucheary/"
     },
     {
-      "full_name": "Ms Jessica Tan Soon Neo",
+      "name": "Ms Jessica Tan Soon Neo",
+      "age": 40,
       "party": "People's Action Party",
-      "branch": "CHANGI-SIMEI (EAST COAST GRC)",
+      "branch": "EAST COAST GRC (CHANGI-SIMEI)",
       "url": "https://www.pap.org.sg/your-representatives/jessica-tan-soon-neo/"
     },
     {
-      "full_name": "Ms Joan Cheng Sim Pereira",
+      "name": "Ms Joan Cheng Sim Pereira",
+      "age": 36,
       "party": "People's Action Party",
-      "branch": "HENDERSON-DAWSON (TANJONG PAGAR GRC)",
+      "branch": "TANJONG PAGAR GRC (HENDERSON-DAWSON)",
       "url": "https://www.pap.org.sg/your-representatives/joan-cheng-sim-pereira/"
     },
     {
-      "full_name": "Mrs Josephine Teo",
+      "name": "Mrs Josephine Teo",
+      "age": 56,
       "party": "People's Action Party",
-      "branch": "KRETA AYER-KIM SENG (JALAN BESAR GRC)",
+      "branch": "JALAN BESAR GRC (KRETA AYER-KIM SENG)",
       "url": "https://www.pap.org.sg/your-representatives/josephine-teo/"
     },
     {
-      "full_name": "Mr K Shanmugam",
+      "name": "Mr K Shanmugam",
+      "age": 39,
       "party": "People's Action Party",
-      "branch": "CHONG PANG (NEE SOON GRC)",
+      "branch": "NEE SOON GRC (CHONG PANG)",
       "url": "https://www.pap.org.sg/your-representatives/k-shanmugam/"
     },
     {
-      "full_name": "Dr Koh Poh Koon",
+      "name": "Dr Koh Poh Koon",
+      "age": 58,
       "party": "People's Action Party",
-      "branch": "TAMPINES CENTRAL (TAMPINES GRC)",
+      "branch": "TAMPINES GRC (TAMPINES CENTRAL)",
       "url": "https://www.pap.org.sg/your-representatives/koh-poh-koon/"
     },
     {
-      "full_name": "Dr Lam Pin Min",
+      "name": "Dr Lam Pin Min",
+      "age": 45,
       "party": "People's Action Party",
       "branch": "SENGKANG GRC",
       "url": "https://www.pap.org.sg/your-representatives/lam-pin-min/"
     },
     {
-      "full_name": "Mr Lawrence Wong",
+      "name": "Mr Lawrence Wong",
+      "age": 65,
       "party": "People's Action Party",
-      "branch": "LIMBANG (MARSILING - YEW TEE GRC)",
+      "branch": "MARSILING - YEW TEE GRC (LIMBANG)",
       "url": "https://www.pap.org.sg/your-representatives/lawrence-wong/"
     },
     {
-      "full_name": "Mr Lee Hsien Loong",
+      "name": "Mr Lee Hsien Loong",
+      "age": 40,
       "party": "People's Action Party",
-      "branch": "TECK GHEE (ANG MO KIO GRC)",
+      "branch": "ANG MO KIO GRC (TECK GHEE)",
       "url": "https://www.pap.org.sg/your-representatives/lee-hsien-loong/"
     },
     {
-      "full_name": "Mr Liang Eng Hwa",
+      "name": "Mr Liang Eng Hwa",
+      "age": 36,
       "party": "People's Action Party",
       "branch": "BUKIT PANJANG SMC",
       "url": "https://www.pap.org.sg/your-representatives/liang-eng-hwa/"
     },
     {
-      "full_name": "Mr Lim Biow Chuan",
+      "name": "Mr Lim Biow Chuan",
+      "age": 57,
       "party": "People's Action Party",
       "branch": "MOUNTBATTEN SMC",
       "url": "https://www.pap.org.sg/your-representatives/lim-biow-chuan/"
     },
     {
-      "full_name": "Dr Lim Wee Kiak",
+      "name": "Dr Lim Wee Kiak",
+      "age": 67,
       "party": "People's Action Party",
-      "branch": "CANBERRA (SEMBAWANG GRC)",
+      "branch": "SEMBAWANG GRC (CANBERRA)",
       "url": "https://www.pap.org.sg/your-representatives/lim-wee-kiak/"
     },
     {
-      "full_name": "Mr Louis Ng",
+      "name": "Mr Louis Ng",
+      "age": 53,
       "party": "People's Action Party",
-      "branch": "NEE SOON EAST (NEE SOON GRC)",
+      "branch": "NEE SOON GRC (NEE SOON EAST)",
       "url": "https://www.pap.org.sg/your-representatives/louis-ng/"
     },
     {
-      "full_name": "Ms Low Yen Ling",
+      "name": "Ms Low Yen Ling",
+      "age": 37,
       "party": "People's Action Party",
-      "branch": "BUKIT GOMBAK (CHUA CHU KANG GRC)",
+      "branch": "CHUA CHU KANG GRC (BUKIT GOMBAK)",
       "url": "https://www.pap.org.sg/your-representatives/low-yen-ling/"
     },
     {
-      "full_name": "Ms Mariam Jaafar",
+      "name": "Ms Mariam Jaafar",
+      "age": 38,
       "party": "People's Action Party",
-      "branch": "WOODLANDS (SEMBAWANG GRC)",
+      "branch": "SEMBAWANG GRC (WOODLANDS)",
       "url": "https://www.pap.org.sg/your-representatives/mariam-jaafar/"
     },
     {
-      "full_name": "Mr Marshall Lim",
+      "name": "Mr Marshall Lim",
+      "age": 35,
       "party": "People's Action Party",
       "branch": "HOUGANG SMC",
       "url": "https://www.pap.org.sg/your-representatives/marshall-lim/"
     },
     {
-      "full_name": "Mr Masagos Zulkifli Bin Masagos Mohamad",
+      "name": "Mr Masagos Zulkifli Bin Masagos Mohamad",
+      "age": 58,
       "party": "People's Action Party",
-      "branch": "TAMPINES WEST (TAMPINES GRC)",
+      "branch": "TAMPINES GRC (TAMPINES WEST)",
       "url": "https://www.pap.org.sg/your-representatives/masagos-zulkifli-bin-masagos-mohamad/"
     },
     {
-      "full_name": "Mr Melvin Yong Yik Chye",
+      "name": "Mr Melvin Yong Yik Chye",
+      "age": 53,
       "party": "People's Action Party",
       "branch": "RADIN MAS SMC",
       "url": "https://www.pap.org.sg/your-representatives/melvin-yong-yik-chye/"
     },
     {
-      "full_name": "Dr Mohamad Maliki Bin Osman",
+      "name": "Dr Mohamad Maliki Bin Osman",
+      "age": 69,
       "party": "People's Action Party",
-      "branch": "SIGLAP (EAST COAST GRC)",
+      "branch": "EAST COAST GRC (SIGLAP)",
       "url": "https://www.pap.org.sg/your-representatives/mohamad-maliki-bin-osman/"
     },
     {
-      "full_name": "Mr Mohd Fahmi Aliman",
+      "name": "Mr Mohd Fahmi Aliman",
+      "age": 49,
       "party": "People's Action Party",
-      "branch": "GEYLANG SERAI (MARINE PARADE GRC)",
+      "branch": "MARINE PARADE GRC (GEYLANG SERAI)",
       "url": "https://www.pap.org.sg/your-representatives/mohd-fahmi-aliman/"
     },
     {
-      "full_name": "Assoc Prof Muhammad Faishal Ibrahim",
+      "name": "Assoc Prof Muhammad Faishal Ibrahim",
+      "age": 59,
       "party": "People's Action Party",
-      "branch": "NEE SOON CENTRAL (NEE SOON GRC)",
+      "branch": "NEE SOON GRC (NEE SOON CENTRAL)",
       "url": "https://www.pap.org.sg/your-representatives/muhammad-faishal-ibrahim/"
     },
     {
-      "full_name": "Mr Murali Pillai",
+      "name": "Mr Murali Pillai",
+      "age": 59,
       "party": "People's Action Party",
       "branch": "BUKIT BATOK SMC",
       "url": "https://www.pap.org.sg/your-representatives/murali-pillai/"
     },
     {
-      "full_name": "Ms Nadia Ahmad Samdin",
+      "name": "Ms Nadia Ahmad Samdin",
+      "age": 55,
       "party": "People's Action Party",
-      "branch": "CHENG SAN-SELETAR (ANG MO KIO GRC)",
+      "branch": "ANG MO KIO GRC (CHENG SAN-SELETAR)",
       "url": "https://www.pap.org.sg/your-representatives/nadia-ahmad-samdin/"
     },
     {
-      "full_name": "Dr Ng Eng Hen",
+      "name": "Dr Ng Eng Hen",
+      "age": 48,
       "party": "People's Action Party",
-      "branch": "TOA PAYOH CENTRAL (BISHAN-TOA PAYOH GRC)",
+      "branch": "BISHAN-TOA PAYOH GRC (TOA PAYOH CENTRAL)",
       "url": "https://www.pap.org.sg/your-representatives/ng-eng-hen/"
     },
     {
-      "full_name": "Ms Ng Ling Ling",
+      "name": "Ms Ng Ling Ling",
+      "age": 45,
       "party": "People's Action Party",
-      "branch": "JALAN KAYU (ANG MO KIO GRC)",
+      "branch": "ANG MO KIO GRC (JALAN KAYU)",
       "url": "https://www.pap.org.sg/your-representatives/ng-ling-ling/"
     },
     {
-      "full_name": "Mr Ong Ye Kung",
+      "name": "Mr Ong Ye Kung",
+      "age": 54,
       "party": "People's Action Party",
-      "branch": "SEMBAWANG CENTRAL (SEMBAWANG GRC)",
+      "branch": "SEMBAWANG GRC (SEMBAWANG CENTRAL)",
       "url": "https://www.pap.org.sg/your-representatives/ong-ye-kung/"
     },
     {
-      "full_name": "Mr Patrick Tay Teck Guan",
+      "name": "Mr Patrick Tay Teck Guan",
+      "age": 57,
       "party": "People's Action Party",
       "branch": "PIONEER SMC",
       "url": "https://www.pap.org.sg/your-representatives/patrick-tay-teck-guan/"
     },
     {
-      "full_name": "Ms Poh Li San",
+      "name": "Ms Poh Li San",
+      "age": 39,
       "party": "People's Action Party",
-      "branch": "SEMBAWANG WEST (SEMBAWANG GRC)",
+      "branch": "SEMBAWANG GRC (SEMBAWANG WEST)",
       "url": "https://www.pap.org.sg/your-representatives/poh-li-san/"
     },
     {
-      "full_name": "Ms Rachel Ong Sin Yen",
+      "name": "Ms Rachel Ong Sin Yen",
+      "age": 35,
       "party": "People's Action Party",
-      "branch": "TELOK BLANGAH (WEST COAST GRC)",
+      "branch": "WEST COAST GRC (TELOK BLANGAH)",
       "url": "https://www.pap.org.sg/your-representatives/rachel-ong-sin-yen/"
     },
     {
-      "full_name": "Ms Rahayu Mahzam",
+      "name": "Ms Rahayu Mahzam",
+      "age": 48,
       "party": "People's Action Party",
-      "branch": "BUKIT BATOK EAST (JURONG GRC)",
+      "branch": "JURONG GRC (BUKIT BATOK EAST)",
       "url": "https://www.pap.org.sg/your-representatives/rahayu-mahzam/"
     },
     {
-      "full_name": "Mr Saktiandi Supaat",
+      "name": "Mr Saktiandi Supaat",
+      "age": 56,
       "party": "People's Action Party",
-      "branch": "TOA PAYOH EAST (BISHAN-TOA PAYOH GRC)",
+      "branch": "BISHAN-TOA PAYOH GRC (TOA PAYOH EAST)",
       "url": "https://www.pap.org.sg/your-representatives/saktiandi-supaat/"
     },
     {
-      "full_name": "Mr Seah Kian Peng",
+      "name": "Mr Seah Kian Peng",
+      "age": 49,
       "party": "People's Action Party",
-      "branch": "BRADDELL HEIGHTS (MARINE PARADE GRC)",
+      "branch": "MARINE PARADE GRC (BRADDELL HEIGHTS)",
       "url": "https://www.pap.org.sg/your-representatives/seah-kian-peng/"
     },
     {
-      "full_name": "Mr Sharael Taha",
+      "name": "Mr Sharael Taha",
+      "age": 47,
       "party": "People's Action Party",
-      "branch": "PASIR RIS EAST (PASIR RIS - PUNGGOL GRC)",
+      "branch": "PASIR RIS - PUNGGOL GRC (PASIR RIS EAST)",
       "url": "https://www.pap.org.sg/your-representatives/sharael-taha/"
     },
     {
-      "full_name": "Mr Shawn Huang",
+      "name": "Mr Shawn Huang",
+      "age": 44,
       "party": "People's Action Party",
-      "branch": "JURONG SPRING (JURONG GRC)",
+      "branch": "JURONG GRC (JURONG SPRING)",
       "url": "https://www.pap.org.sg/your-representatives/huang-wei-zhong-shawn/"
     },
     {
-      "full_name": "Ms Sim Ann",
+      "name": "Ms Sim Ann",
+      "age": 40,
       "party": "People's Action Party",
-      "branch": "BUKIT TIMAH (HOLLAND-BUKIT TIMAH GRC)",
+      "branch": "HOLLAND-BUKIT TIMAH GRC (BUKIT TIMAH)",
       "url": "https://www.pap.org.sg/your-representatives/sim-ann/"
     },
     {
-      "full_name": "Mr Sitoh Yih Pin",
+      "name": "Mr Sitoh Yih Pin",
+      "age": 37,
       "party": "People's Action Party",
       "branch": "POTONG PASIR SMC",
       "url": "https://www.pap.org.sg/your-representatives/sitoh-yih-pin/"
     },
     {
-      "full_name": "Ms Sun Xueling",
+      "name": "Ms Sun Xueling",
+      "age": 43,
       "party": "People's Action Party",
       "branch": "PUNGGOL WEST SMC",
       "url": "https://www.pap.org.sg/your-representatives/sun-xueling/"
     },
     {
-      "full_name": "Mr Tan Kiat How",
+      "name": "Mr Tan Kiat How",
+      "age": 36,
       "party": "People's Action Party",
-      "branch": "KAMPONG CHAI CHEE (EAST COAST GRC)",
+      "branch": "EAST COAST GRC (KAMPONG CHAI CHEE)",
       "url": "https://www.pap.org.sg/your-representatives/tan-kiat-how/"
     },
     {
-      "full_name": "Dr Tan See Leng",
+      "name": "Dr Tan See Leng",
+      "age": 59,
       "party": "People's Action Party",
-      "branch": "MARINE PARADE (MARINE PARADE GRC)",
+      "branch": "MARINE PARADE GRC (MARINE PARADE)",
       "url": "https://www.pap.org.sg/your-representatives/tan-see-leng/"
     },
     {
-      "full_name": "Dr Tan Wu Meng",
+      "name": "Dr Tan Wu Meng",
+      "age": 70,
       "party": "People's Action Party",
-      "branch": "CLEMENTI (JURONG GRC)",
+      "branch": "JURONG GRC (CLEMENTI)",
       "url": "https://www.pap.org.sg/your-representatives/tan-wu-meng/"
     },
     {
-      "full_name": "Mr Teo Chee Hean",
+      "name": "Mr Teo Chee Hean",
+      "age": 52,
       "party": "People's Action Party",
-      "branch": "PASIR RIS WEST (PASIR RIS - PUNGGOL GRC)",
+      "branch": "PASIR RIS - PUNGGOL GRC (PASIR RIS WEST)",
       "url": "https://www.pap.org.sg/your-representatives/teo-chee-hean/"
     },
     {
-      "full_name": "Ms Theodora Lai Xi Yi",
+      "name": "Ms Theodora Lai Xi Yi",
+      "age": 53,
       "party": "People's Action Party",
       "branch": "SENGKANG GRC",
       "url": "https://www.pap.org.sg/your-representatives/theodora-lai-xi-yi/"
     },
     {
-      "full_name": "Ms Tin Pei Ling",
+      "name": "Ms Tin Pei Ling",
+      "age": 52,
       "party": "People's Action Party",
       "branch": "MACPHERSON SMC",
       "url": "https://www.pap.org.sg/your-representatives/tin-pei-ling/"
     },
     {
-      "full_name": "Mr Vikram Nair",
+      "name": "Mr Vikram Nair",
+      "age": 45,
       "party": "People's Action Party",
-      "branch": "ADMIRALTY (SEMBAWANG GRC)",
+      "branch": "SEMBAWANG GRC (ADMIRALTY)",
       "url": "https://www.pap.org.sg/your-representatives/vikram-nair/"
     },
     {
-      "full_name": "Dr Vivian Balakrishnan",
+      "name": "Dr Vivian Balakrishnan",
+      "age": 61,
       "party": "People's Action Party",
-      "branch": "CASHEW (HOLLAND-BUKIT TIMAH GRC)",
+      "branch": "HOLLAND-BUKIT TIMAH GRC (CASHEW)",
       "url": "https://www.pap.org.sg/your-representatives/vivian-balakrishnan/"
     },
     {
-      "full_name": "Dr Wan Rizal",
+      "name": "Dr Wan Rizal",
+      "age": 69,
       "party": "People's Action Party",
-      "branch": "KOLAM AYER (JALAN BESAR GRC)",
+      "branch": "JALAN BESAR GRC (KOLAM AYER)",
       "url": "https://www.pap.org.sg/your-representatives/wan-rizal/"
     },
     {
-      "full_name": "Mr Xie Yao Quan",
+      "name": "Mr Xie Yao Quan",
+      "age": 59,
       "party": "People's Action Party",
-      "branch": "JURONG CENTRAL (JURONG GRC)",
+      "branch": "JURONG GRC (JURONG CENTRAL)",
       "url": "https://www.pap.org.sg/your-representatives/xie-yao-quan/"
     },
     {
-      "full_name": "Ms Yeo Wan Ling",
+      "name": "Ms Yeo Wan Ling",
+      "age": 57,
       "party": "People's Action Party",
-      "branch": "PUNGGOL SHORE (PASIR RIS - PUNGGOL GRC)",
+      "branch": "PASIR RIS - PUNGGOL GRC (PUNGGOL SHORE)",
       "url": "https://www.pap.org.sg/your-representatives/yeo-wan-ling/"
     },
     {
-      "full_name": "Mr Yip Hon Weng",
+      "name": "Mr Yip Hon Weng",
+      "age": 46,
       "party": "People's Action Party",
       "branch": "YIO CHU KANG SMC",
       "url": "https://www.pap.org.sg/your-representatives/yip-hon-weng/"
     },
     {
-      "full_name": "Mr Zaqy Mohamad",
+      "name": "Mr Zaqy Mohamad",
+      "age": 62,
       "party": "People's Action Party",
-      "branch": "MARSILING (MARSILING - YEW TEE GRC)",
+      "branch": "MARSILING - YEW TEE GRC (MARSILING)",
       "url": "https://www.pap.org.sg/your-representatives/zaqy-mohamad/"
     },
     {
-      "full_name": "Mr Zhulkarnain Abdul Rahim",
+      "name": "Mr Zhulkarnain Abdul Rahim",
+      "age": 50,
       "party": "People's Action Party",
-      "branch": "KEAT HONG (CHUA CHU KANG GRC)",
+      "branch": "CHUA CHU KANG GRC (KEAT HONG)",
       "url": "https://www.pap.org.sg/your-representatives/zhulkarnain-abdul-rahim/"
     }
   ]
