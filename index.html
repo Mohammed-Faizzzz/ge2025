@@ -1,15 +1,177 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>Singapore Elections 2025 - Candidate Information</title>
-    <link rel="stylesheet" href="styles.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Singapore Elections 2025</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: system-ui, sans-serif;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background: #c32b42;
+      color: white;
+      padding: 1.5rem;
+      text-align: center;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2rem;
+    }
+    nav {
+      margin-top: 1rem;
+    }
+    nav a {
+      color: white;
+      margin: 0 1rem;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    .hero {
+      padding: 4rem 2rem;
+      background: linear-gradient(to right, #c32b42, #2b4dc3);
+      color: white;
+      text-align: center;
+    }
+    .hero h2 {
+      font-size: 2.5rem;
+      margin-bottom: 0.5rem;
+    }
+    .hero p {
+      font-size: 1.2rem;
+      max-width: 600px;
+      margin: auto;
+    }
+    .container {
+      max-width: 1200px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 2rem;
+    }
+    .card {
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+      overflow: hidden;
+      transition: transform 0.2s;
+      cursor: pointer;
+    }
+    .card:hover {
+      transform: translateY(-5px);
+    }
+    .card .content {
+      padding: 1.5rem;
+    }
+    .card h3 {
+      margin: 0 0 0.5rem 0;
+      font-size: 1.2rem;
+    }
+    .card p {
+      font-size: 0.95rem;
+      color: #666;
+      margin: 0.5rem 0;
+    }
+    footer {
+      text-align: center;
+      padding: 2rem;
+      font-size: 0.9rem;
+      color: #999;
+    }
+  </style>
 </head>
 <body>
-    <!-- Full HTML content from body (excluding <style> and <script>) -->
-    <!-- Paste candidate card HTML here -->
-    
-    <script src="script.js"></script>
+  <header>
+    <h1>Singapore Elections 2025</h1>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#candidates">Candidates</a>
+      <a href="#parties">Parties</a>
+      <a href="#about">About</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>Meet the Candidates</h2>
+    <p>Explore the education, experience, and vision of those shaping Singapore's future.</p>
+  </section>
+
+  <main class="container" id="candidates">
+    <div class="grid" id="candidateGrid">
+      <!-- Candidate cards will be generated here -->
+    </div>
+  </main>
+
+  <footer>
+    &copy; 2025 Singapore Elections. Built for transparency and civic engagement.
+  </footer>
+
+  <script>
+    const papCandidates = [];
+    const wpCandidates = [];
+
+    // Load PAP candidates
+    fetch('election_data/pap_candidates.json')
+      .then(response => response.json())
+      .then(data => {
+        data.candidates.forEach(candidate => {
+          papCandidates.push({
+            name: candidate.name,
+            party: 'PAP',
+            branch: candidate.branch || 'Not specified'
+          });
+        });
+        return fetch('election_data/wp_candidates.json');
+      })
+      .then(response => response.json())
+      .then(data => {
+        data.candidates.forEach(candidate => {
+          wpCandidates.push({
+            name: candidate.name,
+            party: 'WP',
+            branch: candidate.branch || 'Not specified'
+          });
+        });
+        generateCandidateCards([...papCandidates, ...wpCandidates]);
+      })
+      .catch(err => console.error('Error loading candidate data:', err));
+
+    function generateCandidateCards(candidates) {
+      const container = document.getElementById('candidateGrid');
+      candidates.forEach(c => {
+        const card = document.createElement('div');
+        card.className = 'card';
+        card.onclick = () => alert(`This will eventually lead to ${c.name}'s profile.`);
+
+        const content = document.createElement('div');
+        content.className = 'content';
+
+        const name = document.createElement('h3');
+        name.textContent = c.name;
+
+        const party = document.createElement('p');
+        party.innerHTML = `<strong>Party:</strong> ${c.party}`;
+
+        const branch = document.createElement('p');
+        branch.innerHTML = `<strong>Constituency:</strong> ${c.branch}`;
+
+        content.appendChild(name);
+        content.appendChild(party);
+        content.appendChild(branch);
+        card.appendChild(content);
+        container.appendChild(card);
+      });
+    }
+  </script>
 </body>
 </html>
